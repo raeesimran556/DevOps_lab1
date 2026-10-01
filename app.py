@@ -1,6 +1,6 @@
 def show_services():
     services = ["Student Portal", "Library", "Transport", "IT Help Desk"]
-
+    services = ["Student Portal", "Library", "Transport", "IT Help Desk", "Student Support"]
     print("Campus Service Portal")
     print("Available Services:")
 
